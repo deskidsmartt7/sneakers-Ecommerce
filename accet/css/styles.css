@@ -556,6 +556,8 @@ padding: 4rem 0 4rem 1.5rem;
 @media screen and (min-width:768px){
   body{
     margin: 0;
+      background-color: aquamarine;
+    
   }
   .section{
     padding: 7rem 0 3rem;
@@ -614,6 +616,9 @@ padding: 4rem 0 4rem 1.5rem;
   }
 }
 @media screen and (min-width:1024px){
+  body{
+    background-color: #8A8A8A;
+  }
   .bd-grid{
     margin-left: auto;
     margin-right: auto;
